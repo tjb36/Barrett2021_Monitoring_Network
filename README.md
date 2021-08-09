@@ -15,6 +15,8 @@ The code in this repository is organsied according to several main blocks in the
 
 5) For data visualisation, a Grafana instance must be set up, which can be done according the developer's website https://grafana.com/grafana/download?pg=get&plcmt=selfmanaged-box1-cta1 (similarly to InfluxDB, a docker image is available for easy installation). The Grafana instance must then be pointed to the InfluxDB location (in our setup, both Grafana and InfluxDB run on the same virtual machine). Custom dashboards should then be created in Grafana, and data be accessed by individual users as needed.
 
+Typical examples of dashboards are shown below:
+
 ![Dashboards](https://user-images.githubusercontent.com/43373700/128684529-48d822db-970a-4d26-8ab9-03cd3e18db1c.png)
 
 
