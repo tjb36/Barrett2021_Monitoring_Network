@@ -19,6 +19,9 @@ Typical examples of dashboards are shown below:
 
 ![Dashboards](https://user-images.githubusercontent.com/43373700/128684529-48d822db-970a-4d26-8ab9-03cd3e18db1c.png)
 
+which are displayed on various screens around the labs:
+
+![Picture2](https://user-images.githubusercontent.com/43373700/128685035-876fbe2e-174b-4f74-a1f1-e65c0c72b016.png)
 
 
 
