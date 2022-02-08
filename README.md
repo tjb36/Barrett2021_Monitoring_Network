@@ -1,6 +1,6 @@
 # "An Environmental Monitoring Network for Quantum Gas Experiments and Devices"
 
-The purpose of this repository is to make available the data and code used in the study *"An Environmental Monitoring Network for Quantum Gas Experiments and Devices"*, by T. Barrett, et al. A preprint of the publication is available [here](https://arxiv.org/abs/2101.12726).
+The purpose of this repository is to make available the data and code used in the study *"An Environmental Monitoring Network for Quantum Gas Experiments and Devices"*, by T. Barrett, et al. The publication is available [here](https://doi.org/10.1088/2058-9565/ac3385).
 
 The system was designed for monitoring a suite of ultracold atom experiments, together with a variety of relevant environmental conditions to which the experiments are extremely sensitive. Approximately ~100 sensors are installed onto the network, and the data is consolidated into a standardised format in a time-series database. All data is available to inspect remotely for end users through custom dashboards. A high level schematic of the system looks like the following:
 
